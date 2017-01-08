@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+}
+
+nav ul {
+	margin: 0;
+}
+nav {
+	background-color: gray;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: red;
+}
+
+a {
+	color: white;
+}
